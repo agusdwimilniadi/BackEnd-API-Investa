@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fitur A
 =======
 $ git stash
 $ git stash list
 git stash apply/pop [<stash>]
 >>>>>>> featureB
+=======
+Development
+=======
+Fitur A
+>>>>>>> featureA
+>>>>>>> development
